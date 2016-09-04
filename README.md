@@ -1,1 +1,1 @@
-# jpos-spring-ui
+# JPos Spring UI
